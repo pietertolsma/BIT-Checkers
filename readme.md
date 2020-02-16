@@ -1,4 +1,4 @@
-#BIT Checkers
+# BIT Checkers
 
 - Multiplayer checkers game.
 - Based on rules of classical checkers.
